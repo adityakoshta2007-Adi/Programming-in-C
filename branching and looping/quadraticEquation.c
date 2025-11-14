@@ -1,4 +1,4 @@
-// Ansh Sonkusare 25070521082
+// Aditya Koshta 25070521064
 
 #include <math.h>
 #include <stdio.h>
